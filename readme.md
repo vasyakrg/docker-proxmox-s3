@@ -56,8 +56,9 @@
 
 ## Видео к курсу
 - [видео]()
+- [презентация](https://drive.google.com/file/d/1Ke5rDDp8dmUU-UmJABoh4Go0y7p4_qoU/view?usp=sharing)
 
 ##### Автор
 - **Vassiliy Yegorov** [vasyakrg](https://github.com/vasyakrg)
-- [сайт](vk.com/realmanual)
-- [youtube](youtube.com/realmanual)
+- [сайт](https://vk.com/realmanual)
+- [youtube](https://youtube.com/realmanual)
