@@ -55,7 +55,7 @@
 1. `./swarm-rm.sh`
 
 ## Видео к курсу
-- [видео]()
+- [видео](https://www.youtube.com/playlist?list=PLEFo-qGWcO2b7trzxSQH3GyJvOUPyurhf)
 - [презентация](https://drive.google.com/file/d/1Ke5rDDp8dmUU-UmJABoh4Go0y7p4_qoU/view?usp=sharing)
 
 ##### Автор
